@@ -1,5 +1,4 @@
 # 📂 Google Drive Clone 
-
 Welcome to the **Google Drive Clone** — a full-stack web application that mimics the core functionality of Google Drive. This project demonstrates how to build a cloud-based file storage system with authentication, file uploads, folder management, and sharing features.
 
 ---
