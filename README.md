@@ -94,7 +94,6 @@ google-drive-clone/
 ├── uploads/             # Local file storage (if used)
 └── README.md
 ```
-
 ---
 
 ## 🤝 Contributing  
